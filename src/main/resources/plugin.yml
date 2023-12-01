@@ -1,0 +1,6 @@
+name: LobbyEngine
+version: '${project.version}'
+main: me.simonfoy.lobbyengine.LobbyEngine
+api-version: '1.20'
+commands:
+  gamemenu:

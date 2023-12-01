@@ -1,0 +1,8 @@
+me\simonfoy\lobbyengine\inventory\LobbyInventory.class
+me\simonfoy\lobbyengine\listener\ConnectListener.class
+me\simonfoy\lobbyengine\menu\GameMenu.class
+me\simonfoy\lobbyengine\listener\LobbyProtectionListener.class
+me\simonfoy\lobbyengine\menu\GameMenu$GameOption.class
+me\simonfoy\lobbyengine\LobbyEngine.class
+me\simonfoy\lobbyengine\manager\ScoreboardManager.class
+me\simonfoy\lobbyengine\command\GameMenuCommand.class

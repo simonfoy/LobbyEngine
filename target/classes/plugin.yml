@@ -1,0 +1,6 @@
+name: LobbyEngine
+version: '1.0-SNAPSHOT'
+main: me.simonfoy.lobbyengine.LobbyEngine
+api-version: '1.20'
+commands:
+  gamemenu:
